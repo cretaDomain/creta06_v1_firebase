@@ -206,5 +206,8 @@
   "popularBook": "Popular Creta Book",
   "description": "Description",
   "broadcast": "Broadcast",
+  "newPlaylist": "Add New Playlist",
+  "playlistToAdd": "Playlist to add",
+  "createNew": "Create New",
   "endOfList": "End of List"
 }

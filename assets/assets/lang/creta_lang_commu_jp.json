@@ -206,5 +206,8 @@
     "popularBook": "人気クレタブック",
     "description": "説明",
     "broadcast": "放送する",
+    "newPlaylist": "新しいプレイリスト",
+    "playlistToAdd": "追加するプレイリスト",
+    "createNew": "新規作成",
     "end": ""
 }
