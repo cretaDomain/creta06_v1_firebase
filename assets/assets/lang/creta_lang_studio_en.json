@@ -604,6 +604,7 @@
   "mute": "Mute",
   "unmute": "Unmute",
   "noDevcieAvailable": "No Device available",
+  "noDevcieSelected": "No Device selected",
   "broadcast": "Broadcast",
   "selectDevice": "Select the device you want to broadcast.",
   "apply": "Apply",
@@ -631,5 +632,8 @@
   "noIconSyncContents": "Sync to content without an icon",
   "showVisibleButton": "Hide/Show",
   "togglePresendationMode": "Signage mode/Presentation mode",
+  "gotoJustBefore": "Go to the previous page",
+  "AllMyDevices": "All my devices",
+  "SelectedDevices": "Selected devices",
   "end": "End"
 }

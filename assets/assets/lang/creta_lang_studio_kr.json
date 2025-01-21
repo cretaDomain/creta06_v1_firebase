@@ -604,6 +604,7 @@
   "mute": "음소거",
   "unmute": "음소거 해제",
   "noDevcieAvailable": "방송할 디바이스를 가지고 있지 않습니다.",
+  "noDevcieSelected": "선택된 디바이스가 없습니다.",
   "broadcast": "방송하기",
   "selectDevice": "방송할 디바이스를 선택하세요.",
   "apply": "적용",
@@ -631,5 +632,8 @@
   "noIconSyncContents": "아이콘 없이 콘텐츠 끼리 동기화",
   "showVisibleButton": "숨기기/보이기",
   "togglePresendationMode": "사이니지 모드/프리젠테이션 모드",
+  "gotoJustBefore": "이전 페이지로 이동",
+  "AllMyDevices": "모든 디바이스",
+  "SelectedDevices": "선택된 디바이스",
   "end": "End"
 }

@@ -609,6 +609,7 @@
     "mute": "ミュート",
     "unmute": "ミュート解除",
     "noDevcieAvailable": "放送するデバイスを持っていません。",
+    "noDevcieSelected": "放送するデバイスを選択してください。",
     "broadcast": "放送する",
     "selectDevice": "放送するデバイスを選択してください。",
     "apply": "適用",
@@ -636,5 +637,8 @@
     "noIconSyncContents": "アイコンなしでコンテンツを同期",
     "showVisibleButton": "隠す/見せる",
     "togglePresendationMode": "サイネージモード/プレゼンテーションモード",
+    "gotoJustBefore": "前のページに移動",
+    "AllMyDevices": "すべてのデバイス",
+    "SelectedDevices": "選択されたデバイス",
     "end": "End"
 }
