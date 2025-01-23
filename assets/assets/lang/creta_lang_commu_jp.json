@@ -210,5 +210,8 @@
     "newPlaylist": "新しいプレイリスト",
     "playlistToAdd": "追加するプレイリスト",
     "createNew": "新規作成",
+    "selectBookToAddPlaylist": "追加するクレタブックを選択してください",
+    "selectBookOrPlaylist": "放送するクレタブックまたはプレイリストを選択してください",
+    "myPlaylist": "マイプレイリスト",
     "end": ""
 }

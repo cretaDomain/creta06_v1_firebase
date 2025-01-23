@@ -210,5 +210,7 @@
   "newPlaylist": "Add New Playlist",
   "playlistToAdd": "Playlist to add",
   "createNew": "Create New",
+  "selectBookToAddPlaylist": "Select the Creta book to add to the playlist",
+  "myPlaylist": "My Playlist",
   "endOfList": "End of List"
 }
