@@ -24,6 +24,7 @@
   "shouldInputDeviceId": "Please enter your device ID",
   "shouldInputDeviceName": "Please enter the device name",
   "deviceDetail": "Device detail",
+  "deviceModify": "Device property modification",
   "device": "Device",
   "studio": "Studio",
   "community": "Community",

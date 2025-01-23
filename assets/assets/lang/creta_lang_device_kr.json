@@ -24,6 +24,7 @@
     "shouldInputDeviceId": "디바이스 ID를 입력하세요.",
     "shouldInputDeviceName": "디바이스 이름을 입력하세요.",
     "deviceDetail": "디바이스 상세화면",
+    "deviceModify": "디바이스 속성 수정",
     "device": "디바이스",
     "studio": "스튜디오",
     "community": "커뮤니티",

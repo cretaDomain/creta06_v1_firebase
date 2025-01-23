@@ -24,6 +24,7 @@
   "shouldInputDeviceId": "デバイスIDを入力してください",
   "shouldInputDeviceName": "デバイス名を入力してください",
   "deviceDetail": "デバイス詳細画面",
+  "deviceModify": "デバイスプロパティ変更画面",
   "device": "デバイス",
   "studio": "スタジオ",
   "community": "コミュニティ",
