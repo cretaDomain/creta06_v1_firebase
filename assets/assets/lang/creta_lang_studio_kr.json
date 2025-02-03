@@ -385,12 +385,11 @@
     "뾰족한": "miter"
   },
   "fitList": {
-    "맞추기": "cover",
-    "채우기": "fill",
-    "자유롭게": "free",
+    "원본비율유지": "cover",
+    "강제로우겨넣기": "fill",
+    "안으로 넣기": "free",
     "가로에 맞추기": "fitWidth",
-    "세로에 맞추기": "fitHeight",
-    "스케일다운": "scaleDown"
+    "세로에 맞추기": "fitHeight"
   },
   "playerSize": {
     "큰": "Big",

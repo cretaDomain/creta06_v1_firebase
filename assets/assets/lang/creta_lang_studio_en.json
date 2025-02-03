@@ -387,10 +387,9 @@
   "fitList": {
     "fit": "cover",
     "fill": "fill",
-    "free": "free",
+    "contain": "free",
     "fit Width": "fitWidth",
-    "fit Height": "fitHeight",
-    "scaleDown": "scaleDown"
+    "fit Height": "fitHeight"
   },
   "playerSize": {
     "Big": "Big",

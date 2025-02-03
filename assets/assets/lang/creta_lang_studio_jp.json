@@ -387,10 +387,9 @@
     "fitList": {
         "fit": "cover",
         "fill": "fill",
-        "自由に": "free",
+        "contain": "free",
         "横に合わせる": "fitWidth",
-        "縦に合わせる": "fitHeight",
-        "scaleDown": "scaleDown"
+        "縦に合わせる": "fitHeight"
     },
     "playerSize": {
         "big": "Big",
