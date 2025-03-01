@@ -63,7 +63,7 @@
     "링크 설정": "linkTab"
   },
   "textMenuTabBar": {
-    "텍스트 추가": "add_text",
+    "스타일 선택": "add_text",
     "워드 패드": "word_pad",
     "특수 문자": "special_char"
   },
@@ -671,5 +671,7 @@
   "AutomaticallyReleasesAndDeletesBook": "크레타북을을 자동 해제 후 삭제",
   "publishedImmediately": "즉시 발행",
   "picketProperty": "피켓 속성",
+  "saveCurrentSettingsAsMyTextStyle": "현재 설정을 내 텍스트 스타일로 저장",
+  "myTextStyle": "내 텍스트 스타일",
   "end": "End"
 }

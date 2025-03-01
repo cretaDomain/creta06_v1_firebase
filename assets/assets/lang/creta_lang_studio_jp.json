@@ -63,7 +63,7 @@
         "リンク設定": "linkTab"
     },
     "textMenuTabBar": {
-        "テキスト追加": "add_text",
+        "スタイルの選択": "add_text",
         "ワードパッド": "word_pad",
         "特殊文字": "special_char"
     },
@@ -676,5 +676,7 @@
     "AutomaticallyReleasesAndDeletesBook": "クレタブックを自動解除後に削除",
     "publishedImmediately": "すぐに発行",
     "picketProperty": "ピケットの属性",
+    "saveCurrentSettingsAsMyTextStyle": "現在の設定をスタイルとして保存",
+    "myTextStyle": "私のスタイル",
     "end": "End"
 }
