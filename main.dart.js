@@ -91416,16 +91416,16 @@ $1(a){this.a.d.B(0,!0)
 return!1},
 $S:120}
 A.c4k.prototype={
-$2(a,b){var s,r,q,p,o,n,m,l,k,j,i,h,g=null,f=this.a
-if(f.w)A.er(B.O,new A.c4g(f),t.P)
-try{s=f.a.d.f
+$2(a,b){var s,r,q,p,o,n,m,l,k,j,i,h=null,g=this.a
+if(g.w)A.er(B.O,new A.c4g(g),t.P)
+s=g.a.d.f
 if(s.length!==0){s=B.c.gbJ(s).Q
 s.toString
 s=s===0}else s=!0
-if(s)f=A.A(g,g,B.i,g,g,g,g,0,g,g,g,g,g,0)
-else{s=f.f
-r=f.r
-q=f.a
+if(s)g=A.A(h,h,B.i,h,h,h,h,0,h,h,h,h,h,0)
+else{s=g.f
+r=g.r
+q=g.a
 p=q.CW
 o=q.f
 n=q.Q
@@ -91438,8 +91438,7 @@ i=q.as
 i===$&&A.a()
 q=q.at
 q===$&&A.a()
-f=new A.dV(s,g,g,new A.qO(r,new A.C(p,A.cm(g,A.A(g,new A.acA(m,B.D4,f.d,f.e,i,q,l,k,j,g,g,g),B.i,g,g,n,g,g,g,g,g,g,g,o),B.D,!1,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,new A.c4h(f),new A.c4i(f),g,g,g,g,!1,B.a7),g),g),g)}return f}catch(h){f=A.A(g,g,B.i,g,g,g,g,0,g,g,g,g,g,0)
-return f}},
+g=new A.dV(s,h,h,new A.qO(r,new A.C(p,A.cm(h,A.A(h,new A.acA(m,B.D4,g.d,g.e,i,q,l,k,j,h,h,h),B.i,h,h,n,h,h,h,h,h,h,h,o),B.D,!1,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,new A.c4h(g),new A.c4i(g),h,h,h,h,!1,B.a7),h),h),h)}return g},
 $S:130}
 A.c4g.prototype={
 $0(){var s=0,r=A.k(t.P),q=this,p
@@ -158092,8 +158091,8 @@ while(true)switch(s){case 0:$.u().m(B.m,"sharedData",null,null)
 o=A.w(t.N,t.R)
 n=A.b(["<writer>"+a,"<owner>"+a,"<owner>public"],t.s)
 n.push("<reader>"+a)
-if(a0!=null){n.push("<writer>"+a0)
-n.push("<reader>"+a0)}m=A.bJ().Ve()
+if(a0!=null)n.push("<writer>"+a0)
+m=A.bJ().Ve()
 if(m!==B.k1)o.h(0,"bookType",new A.aH(B.E,m.a))
 B.c.T(p.b)
 o.h(0,"shares",new A.aH(B.mL,n))
@@ -158118,7 +158117,7 @@ case 1:return A.i(q,r)}})
 return A.j($async$Qs,r)},
 Y6(a,b,c){return this.cpm(a,b,c)},
 P8(a){return this.Y6(a,!0,null)},
-cpm(a,b,c){var s=0,r=A.k(t.rP),q,p=this,o,n,m,l,k,j,i,h
+cpm(a,b,c){var s=0,r=A.k(t.rP),q,p=this,o,n,m,l,k,j,i
 var $async$Y6=A.f(function(d,e){if(d===1)return A.h(e,r)
 while(true)switch(s){case 0:$.u().m(B.m,"teamData",null,null)
 o=A.w(t.N,t.R)
@@ -158130,12 +158129,11 @@ if(k!=null){n=k.c
 n===$&&A.a()
 if(b)l.push("<reader>"+n)
 l.push("<writer>"+n)
-l.push("<owner>"+n)}n=a!=null
-if(n)for(j=a.gal(a);j.v();){i=j.gO(j).dy
-i===$&&A.a()
-m.push(i)}h=A.bJ().Ve()
-if(h!==B.k1)o.h(0,"bookType",new A.aH(B.E,h.a))
-if(n)o.h(0,"creator",new A.aH(B.et,m))
+l.push("<owner>"+n)}if(a!=null)for(n=a.gal(a);n.v();){j=n.gO(n).dy
+j===$&&A.a()
+m.push(j)}i=A.bJ().Ve()
+if(i!==B.k1)o.h(0,"bookType",new A.aH(B.E,i.a))
+o.h(0,"creator",new A.aH(B.et,m))
 o.h(0,"shares",new A.aH(B.mL,l))
 o.h(0,"isRemoved",new A.aH(B.E,!1))
 s=3
