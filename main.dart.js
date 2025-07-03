@@ -15035,7 +15035,7 @@ case 2:return A.h(o,r)}})
 return A.j($async$px,r)},
 dxE(){var s=null,r=B.c.gad($.dh8),q=$.dn_(),p=$.E().dx
 p===$&&A.a()
-return A.q("Version "+r+" (hycop 0.6.47) \nbuild 20250623-11 \n"+q,s,s,s,s,s,s,s,p.nr(B.E,B.bn),s,s,s,s)},
+return A.q("Version "+r+" (hycop 0.6.52) \nbuild 202500703-10 \n"+q,s,s,s,s,s,s,s,p.nr(B.E,B.bn),s,s,s,s)},
 dxC(a){var s,r=null,q=A.bJ().auu(),p=a?40:20
 q=A.kz(B.z,r,r,r,!1,B.b5,r,r,p,new A.eQ("assets/icons/"+q+".png",r,r),r,r,!1,B.b0,r)
 p=A.bJ().auu()
@@ -126302,7 +126302,7 @@ if(j.r>1025){m=r>0?r-1:0
 l.push(new A.rA(j.z,m,new A.cFV(j),102,30,i))}if(j.r>1025){m=B.c.gad($.dh8)
 k=$.E().db
 k===$&&A.a()
-l.push(A.L(A.b([A.q("Ver. "+m+",20250623-11",i,i,i,i,i,i,i,k,i,i,i,i),A.q($.dn_(),i,i,i,i,i,i,i,k,i,i,i,i)],p),B.u,i,B.F,B.h))}o.push(new A.x(n,48,A.K(l,B.j,i,B.y,B.h,i),i))
+l.push(A.L(A.b([A.q("Ver. "+m+",202500703-10",i,i,i,i,i,i,i,k,i,i,i,i),A.q($.dn_(),i,i,i,i,i,i,i,k,i,i,i,i)],p),B.u,i,B.F,B.h))}o.push(new A.x(n,48,A.K(l,B.j,i,B.y,B.h,i),i))
 return A.A(i,new A.C(B.aUn,A.K(o,B.j,i,B.y,B.h,i),i),B.i,i,i,new A.a7(B.k,i,i,i,q,i,i,B.r),i,i,i,i,i,i,i,h)},
 chH(){var s,r,q,p=this,o=null,n=p.f,m=t.p,l=A.L(A.b([B.bBh,p.cpY(p.ay),B.bBs,p.aYj(p.ch,"right")],m),B.j,o,B.l,B.h),k=A.aW(40)
 k=A.al(A.A(o,o,B.i,o,o,new A.a7(B.N6.aU(0.6),o,o,k,o,o,o,B.r),o,480,o,o,o,o,o,1800),o,o)
@@ -335968,7 +335968,7 @@ $.asc=0
 $.b6L=""
 $.be3=A.w(t.N,t.hS)
 $.dzS=null
-$.dh8=A.b(["0.8.60","0.8.59","0.8.58","0.8.57","0.8.56","0.8.55","0.8.54","0.8.53","0.8.52","0.8.51","0.8.50","0.8.49","0.8.48","0.8.47","0.8.45","0.8.44","0.8.43","0.8.42","0.8.41","0.8.40"],t.s)
+$.dh8=A.b(["0.8.61","0.8.60","0.8.59","0.8.58","0.8.57","0.8.56","0.8.55","0.8.54","0.8.53","0.8.52","0.8.51","0.8.50","0.8.49","0.8.48","0.8.47","0.8.45","0.8.44","0.8.43","0.8.42","0.8.41","0.8.40"],t.s)
 $.dAa=null
 $.jM=null
 $.tW=null
