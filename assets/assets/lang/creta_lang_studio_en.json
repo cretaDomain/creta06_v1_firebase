@@ -842,5 +842,7 @@
   "autoBackgroundColor": "Auto Background Color",
   "yes": "Yes",
   "no": "No",
+  "error": "Error",
+  "gridSizeError": "Both columns and rows must be between 1 and 12.",
   "end": "End"
 }

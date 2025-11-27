@@ -846,5 +846,7 @@
   "autoBackgroundColor": "프레임에 자동 배경색 주기",
   "yes": "예",
   "no": "아니오",
+  "error": "오류",
+  "gridSizeError": "가로와 세로 갯수는 1에서 12 사이여야 합니다.",
   "end": "End"
 }
