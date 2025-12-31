@@ -116911,7 +116911,7 @@ a0.cz(0,b.d?1.02:1)
 s=b.a
 s=A.bR(s.y).af(b.a.z)
 r=A.ak(20*b.a.e)
-q=b.d?A.be(B.jo.af(0.5),B.x,2.5*b.a.e):A.be(B.aZ.af(0.5),B.x,b.a.e)
+q=b.d?A.be(B.jo.af(0.3),B.x,2.5*b.a.e):A.be(B.aZ.af(0.3),B.x,b.a.e)
 p=t.V
 if(b.d){o=B.as.af(0.2)
 n=b.a.e
@@ -119210,7 +119210,7 @@ a0.cz(0,b.d?1.02:1)
 s=b.a
 s=A.bR(s.y).af(b.a.z)
 r=A.ak(20*b.a.e)
-q=b.d?A.be(B.jo.af(0.5),B.x,2.5*b.a.e):A.be(B.aZ.af(0.5),B.x,b.a.e)
+q=b.d?A.be(B.jo.af(0.3),B.x,2.5*b.a.e):A.be(B.aZ.af(0.3),B.x,b.a.e)
 p=t.V
 if(b.d){o=B.as.af(0.2)
 n=b.a.e
